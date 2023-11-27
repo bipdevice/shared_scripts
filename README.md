@@ -1,2 +1,1 @@
-# shared_scripts
-Shared BipDevice's Scripts
+Chi sẻ script chạy cho tool Bịp Device!
