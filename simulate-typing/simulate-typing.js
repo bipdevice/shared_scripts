@@ -1,6 +1,5 @@
 (async function(){
-	//Demo gõ phím / sendtext
-	
+    //Demo gõ phím / sendtext
     const kbMapS9 = {
         ".": [1152, 2688],
         " ": [732, 2664],
