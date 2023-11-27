@@ -1,1 +1,1 @@
-Chi sẻ script chạy cho tool Bịp Device!
+Chi sẻ script chạy cho tool [Bịp Device](https://bipdevice.io/)
