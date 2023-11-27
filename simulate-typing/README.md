@@ -1,4 +1,6 @@
 Chia sẻ các script chạy cho tool [Bịp Device](https://bipdevice.io/)
 --------
-Bạn có thể tải các file .js và copy vào thư mục scripts của tool, sau đó có thể chọn file script cần chạy và bấm nút play ▶
-![Bip Script](../bip_script.png)
+Giả lập gõ phím sử dụng bàn phím thật
+
+https://github.com/bipdevice/shared_scripts/assets/152129878/77857c24-8d08-41ab-94be-6365cc266f4c
+
