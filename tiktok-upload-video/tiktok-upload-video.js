@@ -1,5 +1,5 @@
 (async function(){
-	//Chú ý, script này được viết và chạy trên samsung S9.
+ //Chú ý, script này được viết và chạy trên samsung S9.
 	
     async function UploadTikTokVideo() {
         const videoDir = "F:\\videos"; //Thay đường dẫn thành đường dẫn của bạn.
