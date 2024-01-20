@@ -1,4 +1,5 @@
 (async function(){
+    //Chinh lai 2 dong` ben duoi thanh thong tin wifi cua ban
     const tenWifi = "Ten_Wifi";
     const matkhauWifi = "PasswordWifi";
   
